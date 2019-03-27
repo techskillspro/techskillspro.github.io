@@ -1,2 +1,4 @@
-## Welcome to "TechSkillSPro"! A plateform to develop your technical skills in professional way.
-This Page is under construction, please visit again.
+## Welcome to "TechSkillSPro"! 
+A platform to develop technical skills in professional way.
+
+###This Page is under construction, please visit again.
